@@ -1,1 +1,1 @@
-# install-tomcate
+# install-tomcat
